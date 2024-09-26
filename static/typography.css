@@ -1,0 +1,46 @@
+h1, h2, h3 {
+    font-family: 'Merriweather', serif;
+    color: #333;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.underline {
+    text-decoration: underline;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+blockquote {
+    font-style: italic;
+    background-color: #f0f0f5;
+    border-left: 4px solid #007bff;
+    padding: 10px 20px;
+    margin: 20px 0;
+    color: #333;
+}
+  
